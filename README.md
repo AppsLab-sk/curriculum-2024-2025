@@ -1,6 +1,6 @@
 # Učebné materiály pre školský rok 2024/2025
 
-Učebné materiály pre Open Lab Mastrov rozdelené podľa tried (ročníkov).
+Učebné materiály pre inštruktorov rozdelené podľa tried (ročníkov).
 
 - [Školský kalendár Slovensko](https://calendar.zoznam.sk/school-sksk.php)
 
