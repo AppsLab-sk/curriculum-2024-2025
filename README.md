@@ -8,5 +8,5 @@ Učebné materiály pre inštruktorov rozdelené podľa tried (ročníkov).
 | --- | --- | --- |
 | 1. ročník | [Link](1_rocnik/1_polrok/Ucebny_plan.md) | [Link](1_rocnik/2_polrok/Ucebny_plan.md) |
 | 2. ročník | [Link](2_rocnik/1_polrok/Ucebny_plan.md) | [Link](2_rocnik/2_polrok/Ucebny_plan.md) |
-| 3. ročník | [Link](3_rocnik/Questoverflow.md) | [Link](3_rocnik/2_polrok/Ucebny_plan.md) |
-| 4. ročník | [Link](4_rocnik/1_polrok/Ucebny_plan.md) | [Link](4_rocnik/2_polrok/Ucebny_plan.md) |
+| 3. ročník | [Link](3_rocnik/Ucebny_plan.md) | [Link](3_rocnik/Ucebny_plan.md) |
+| 4. ročník | [Link](4_rocnik/Ucebny_plan.md) | [Link](4_rocnik/Ucebny_plan.md) |
